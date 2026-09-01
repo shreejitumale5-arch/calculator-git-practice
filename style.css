@@ -120,7 +120,7 @@ button:hover {
   transform: translateY(-3px);
 }
 
-/* Keyboard focus */
+/* Keyboard focused */
 button.keyboard-active {
   transform: scale(0.9);
   box-shadow:
