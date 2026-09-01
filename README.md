@@ -1,29 +1,29 @@
 # Git & GitHub Calculator Practice Project
 
-A tiny calculator made with HTML, CSS and JavaScript.
+A tiny calculator made with HTML, CSS, and JavaScript.
 
 ## Purpose
 
 This project is intentionally simple. Use it to practice:
 
-- git init
-- git status
-- git add
-- git commit
-- git log
-- git diff
-- editing files
-- .gitignore
-- git restore
-- git rm
-- branches
-- merge
-- merge conflicts
-- GitHub push/pull/clone
-- tags
-- GitHub Pages hosting
+* `git init`
+* `git status`
+* `git add`
+* `git commit`
+* `git log`
+* `git diff`
+* Editing files
+* `.gitignore`
+* `git restore`
+* `git rm`
+* Branches
+* Merge
+* Merge conflicts
+* GitHub push/pull/clone
+* Tags
+* GitHub Pages hosting
 
-## Suggested progression
+## Suggested Progression
 
 1. Create the first commit.
 2. Edit the calculator and make another commit.
@@ -35,4 +35,19 @@ This project is intentionally simple. Use it to practice:
 8. Push to GitHub.
 9. Clone the repository into another folder.
 10. Enable GitHub Pages.
- xyz
+
+## Project Structure
+
+```text
+calculator-project/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── .gitignore
+└── .env.example
+```
+
+## Live Demo
+
+This project is hosted using GitHub Pages.
