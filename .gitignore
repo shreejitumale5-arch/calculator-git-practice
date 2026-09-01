@@ -1,0 +1,12 @@
+# Local/editor files
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local practice files
+practice-notes.txt
+.env
+*.log
